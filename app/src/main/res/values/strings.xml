@@ -1,3 +1,51 @@
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Header Title -->
     <string name="app_name">Maths Quiz 1st Grade</string>
+    <!-- Header Title -->
+    <string name="title">Maths Quiz\n1st Grade</string>
+    <!-- Labels -->
+    <string name="back_img">Background image with numbers</string>
+    <string name="name">Name</string>
+    <string name="select_correct">Select the correct ones</string>
+    <!-- Question 01 -->
+    <string name="question01">Calculate: 3 + 1 + 5 =</string>
+    <!-- Question 02 -->
+    <string name="question02">Calculate: 8 - 3 =</string>
+    <string name="answer_q02_1">2</string>
+    <string name="answer_q02_2">5</string>
+    <string name="answer_q02_3">8</string>
+    <!-- Question 03 -->
+    <string name="answer_q03_1">3 + 2 = 7</string>
+    <string name="answer_q03_2">4 + 5 = 9</string>
+    <string name="answer_q03_3">1 + 4 = 5</string>
+    <string name="answer_q03_4">2 + 5 = 4</string>
+    <!-- Question 04 -->
+    <string name="question04">Calculate: 5 + 3 =</string>
+    <string name="answer_q04_1">4</string>
+    <string name="answer_q04_2">6</string>
+    <string name="answer_q04_3">8</string>
+    <!-- Question 05 -->
+    <string name="question05">Calculate: 2 + 3 + 1 =</string>
+    <string name="answer_q05_1">2</string>
+    <string name="answer_q05_2">5</string>
+    <string name="answer_q05_3">6</string>
+    <!-- Question 06 -->
+    <string name="question06">Calculate: 7 - 4 =</string>
+    <string name="answer_q06_1">3</string>
+    <string name="answer_q06_2">4</string>
+    <string name="answer_q06_3">6</string>
+    <!-- Question 07 -->
+    <string name="answer_q07_1">4 - 1 = 3</string>
+    <string name="answer_q07_2">6 - 5 = 0</string>
+    <string name="answer_q07_3">9 - 6 = 3</string>
+    <string name="answer_q07_4">8 - 2 = 4</string>
+    <!-- Buttons Labels -->
+    <string name="submit">Submit</string>
+    <string name="restart">Try Again</string>
+    <!-- Result message -->
+    <string name="unknown">Stranger</string>
+    <string name="hi">Hi <xliff:g id="hi">%s</xliff:g></string>
+    <string name="score">Your score is:</string>
+    <string name="perfect">Perfect \u0020</string>
+    <string name="thanks">Thanks for participate!!</string>
 </resources>
